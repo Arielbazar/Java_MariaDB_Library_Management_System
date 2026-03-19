@@ -65,7 +65,7 @@ private Staff_Management staffPanel;
 
         jLabel4.setFont(new java.awt.Font("Arial", 1, 24)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 51));
-        jLabel4.setText("ADD STAFF");
+        jLabel4.setText("ADD USER:");
         jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 80, -1, -1));
 
         jButton2.setText("Add Staff");
