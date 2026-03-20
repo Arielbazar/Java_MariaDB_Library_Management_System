@@ -12,15 +12,19 @@
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/Book_Management.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/DeleteBook.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/Historylogs.java</file>
+            <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/UpdateStaff.java</file>
+            <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/User.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/AdminFrame.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/AddBook.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/ReturnedBook.java</file>
+            <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/UserDAO.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/Staff_Frame.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/MonitoryPanel.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/Borrower_Management.java</file>
+            <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/DeleteStaff.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/issuedBooks.java</file>
-            <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/AddStaff.java</file>
             <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/BookDAO.java</file>
+            <file>file:/C:/Database%20projects/Database%20project/Library%20Management%20System/src/LibraryManagementSystem.java</file>
         </group>
     </open-files>
 </project-private>
