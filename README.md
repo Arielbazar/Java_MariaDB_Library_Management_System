@@ -123,3 +123,26 @@ The admin dashboard provides full control over the system with the following fun
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Staff Panel Feature 
+
+The staff dashboard provides limited control over the system with the following functionalities:
+
+![Screenshot](src/Screenshot/Staffp.png)
+
+### Borrower Management
+
+- Add new users  
+- Update existing user information  
+- Delete users
+
+![Screenshot](src/Screenshot/borrowerOp.png)
+![Screenshot](src/Screenshot/BorrowerAUD.png)
+
+### Borrowing and Returned Function
+
+- Borrow Books – Record when a borrower checks out a book.
+
+- Return Books – Record when a borrower returns a book.
+
+  ![Screenshot](src/Screenshot/BandR.png)
