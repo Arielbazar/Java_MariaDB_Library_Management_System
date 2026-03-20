@@ -71,3 +71,17 @@ ArielBazar
 
 GitHub: https://github.com/Arielbazar
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Project Introduction
+
+This project is a Library Management System developed using Netbeans GUI 8.2 ver, Java 8 and MariaDB.
+
+
+![Screenshot](src/Screenshot/login1.png)
+
+The first stage of the system is a login module, where users must enter a valid username and password.
+The credentials are checked against the database to authenticate users before granting access to the system.
+
+This feature helps ensure security and proper access control for admin and staff users.
