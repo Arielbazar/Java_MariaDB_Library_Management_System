@@ -43,17 +43,24 @@ Relational Database (MariaDB)
 Admin
 
 Full access to system
--add user
--add book
--monitoring borrowed,returned,Historylogs and statistics
 
+-Add user,
+
+-Add books,
+
+-monitor borrowed/returned items.
+
+-view history logs and statistics.
 
 Staff
 
 Limited access to system
--add borrower
--issueing book
--returning book
+
+-add borrower.
+
+-issueing book.
+
+-returning book.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
