@@ -85,3 +85,41 @@ The first stage of the system is a login module, where users must enter a valid 
 The credentials are checked against the database to authenticate users before granting access to the system.
 
 This feature helps ensure security and proper access control for admin and staff users.
+
+
+## Admin Panel Features
+
+The admin dashboard provides full control over the system with the following functionalities:
+
+![Screenshot](src/Screenshot/adminpanel1.png)
+
+### User Management
+- Add new users  
+- Update existing user information  
+- Delete users  
+
+![Screenshot](src/Screenshot/UserOP.png)
+![Screenshot](src/Screenshot/User%20AUD.png)
+
+### Book Management
+- Add new books  
+- Update book details  
+- Delete books  
+
+![Screenshot](src/Screenshot/BookOp.png)
+![Screenshot](src/Screenshot/BookAUD.png)
+
+### Monitoring System
+- View borrowed books list  
+- View returned books list  
+- Access history logs of all transactions  
+
+![Screenshot](src/Screenshot/MonitoryP.png)
+![Screenshot](src/Screenshot/BorrowingReturning.png)
+![Screenshot](src/Screenshot/Historylogs.png)
+
+### Statistics
+- Statistics feature will be implemented soon
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
