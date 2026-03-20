@@ -132,9 +132,9 @@ The staff dashboard provides limited control over the system with the following 
 
 ### Borrower Management
 
-- Add new users  
-- Update existing user information  
-- Delete users
+- Add new borrower  
+- Update existing borrower information 
+- Delete borrower
 
 ![Screenshot](src/Screenshot/borrowerOp.png)
 ![Screenshot](src/Screenshot/BorrowerAUD.png)
